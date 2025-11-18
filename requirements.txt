@@ -2,6 +2,7 @@ flask
 pyTelegramBotAPI
 requests
 groq
+python-bidi
 deep-translator
 arabic-reshaper
 typing_extensions
