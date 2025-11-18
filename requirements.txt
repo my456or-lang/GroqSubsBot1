@@ -3,6 +3,5 @@ pyTelegramBotAPI
 requests
 groq
 deep-translator
-python-bidi
 arabic-reshaper
 typing_extensions
